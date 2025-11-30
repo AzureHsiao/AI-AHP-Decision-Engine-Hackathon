@@ -5,7 +5,7 @@ A Python-based AHP decision engine that automates pairwise comparison matrices, 
 A lightweight portfolio project demonstrating an automated AHP (Analytic Hierarchy Process) decision-making engine.  
 This repository includes the complete Jupyter Notebook implementation and the final presentation from the hackathon project.
 
----
+
 
 ## Project Overview
 This project implements the Analytical Hierarchy Process (AHP) in Python to support structured, quantitative decision-making.  
@@ -15,7 +15,7 @@ The repository contains:
 - AHP_DecisionEngine.ipynb — full AHP computation workflow  
 - Presentation.pdf — summary deck explaining the framework and findings  
 
----
+
 
 ## Key Features
 | Feature | Description |
@@ -26,7 +26,7 @@ The repository contains:
 | Visual Output | Plots for criteria importance and comparison results |
 | Clean Notebook Design | Complete workflow in a single file for easy review |
 
----
+
 
 ## Sample Outputs 
 
@@ -46,7 +46,7 @@ The repository contains:
 - Matplotlib  
 - Jupyter Notebook  
 
----
+
 
 ## Files Included
 | File | Description |
@@ -54,7 +54,7 @@ The repository contains:
 | AHP_DecisionEngine.ipynb | Full implementation of AHP logic with visualizations |
 | Presentation.pdf | Slide deck summarizing methodology and results |
 
----
+
 
 ## Purpose
 This project demonstrates structured decision-making, quantitative modeling, and clear communication of results — skills relevant to data analyst, business analyst, and decision science roles.
