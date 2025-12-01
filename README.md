@@ -1,11 +1,6 @@
 # AI-AHP-Decision-Engine-Hackathon
 A Python-based AHP decision engine that automates pairwise comparison matrices, calculates criteria weights, runs sensitivity analysis, and visualizes decisions. Built for hackathon use and real-world decision-making frameworks.
 
-# AI-Powered AHP Decision Engine
-A lightweight portfolio project demonstrating an automated AHP (Analytic Hierarchy Process) decision-making engine.  
-This repository includes the complete Jupyter Notebook implementation and the final presentation from the hackathon project.
-
-
 
 ## Project Overview
 This project implements the Analytical Hierarchy Process (AHP) in Python to support structured, quantitative decision-making.  
@@ -15,6 +10,7 @@ The repository contains:
 - AHP_DecisionEngine.ipynb — full AHP computation workflow  
 - Presentation.pdf — summary deck explaining the framework and findings  
 
+<img width="720" height="393" alt="Screenshot 2025-11-30 at 8 46 58 PM" src="https://github.com/user-attachments/assets/8c64c912-8207-4339-9e3c-52976d049920" />
 
 
 ## Key Features
@@ -33,6 +29,7 @@ The repository contains:
 
 *Sensitivity analysis showing score shifts under three scenarios.*
 <img width="630" height="384" alt="Screenshot 2025-11-30 at 5 59 29 PM" src="https://github.com/user-attachments/assets/e3ca23e7-8c6a-4472-ba5f-d6d226787c25" />
+
 
 
 *Final ranking of AI applications based on AHP scores.*
